@@ -12,7 +12,7 @@ MobiVault leverages IBM i Cryptographic Services and AES encryption to protect s
 
 Whether your applications are written in RPG, CL, C/C++, Python, PHP, or other languages running in PASE, MobiVault makes it easier to manage credentials without embedding sensitive information directly in your applications.
 
-Key Capabilities
+Key Capabilities   
 - Native IBM i Security: Leverages IBM i Cryptographic Services and native security capabilities.
 
 - AES-256 Encryption: Protects sensitive credentials using strong encryption and IBM i key management.
@@ -29,7 +29,7 @@ Key Capabilities
 
 - No External Vault Server Required: Keep your secrets management infrastructure on your existing IBM i platform.
 
-**Modern Security for Traditional and Modern Applications**
+**Modern Security for Traditional and Modern Applications**   
 Your IBM i applications are evolving. Your credential management should evolve with them.
 
 MobiVault bridges traditional IBM i development and modern application integration, providing a consistent way to access sensitive credentials across native and PASE workloads.
