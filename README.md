@@ -10,7 +10,7 @@ MobiVault provides a centralized, encrypted repository for storing and retrievin
 **Your Secrets. Secured on IBM i.**
 MobiVault leverages IBM i Cryptographic Services and AES encryption to protect sensitive credentials while providing controlled access to authorized applications and users.
 
-Whether your applications are written in RPG, CL, C/C++, Python, PHP, or other languages running in PASE, Mobi Vault makes it easier to manage credentials without embedding sensitive information directly in your applications.
+Whether your applications are written in RPG, CL, C/C++, Python, PHP, or other languages running in PASE, MobiVault makes it easier to manage credentials without embedding sensitive information directly in your applications.
 
 Key Capabilities
 - Native IBM i Security: Leverages IBM i Cryptographic Services and native security capabilities.
